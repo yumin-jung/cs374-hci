@@ -4,3 +4,7 @@
 - Figma: [Link](https://www.figma.com/file/J9SO2BvY2B44PNgRjSt1wh/HCI-Team-BjLL?type=design&node-id=2318%3A17271&mode=design&t=K4JwS0EET1HxE6TQ-1)
 - Video: [Link](https://youtu.be/YvoXL8Q2iKs)
 - HW3 Code: [Link](https://github.com/yumin-jung/cs374-hw3)
+
+<a href="https://github.com/yumin-jung/cs374-hci">
+    <img width="400px" src="./MostHumanCenteredAward_BjLL.png">
+  </a>
